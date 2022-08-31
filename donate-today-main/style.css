@@ -24,6 +24,9 @@ head {
     position: absolute;
     width: 1440px;
     height: 669px;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0)100%);
 }
 
 section {
